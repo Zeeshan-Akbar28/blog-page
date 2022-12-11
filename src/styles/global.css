@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+    font-family: 'Manrope', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+.heading--h1{
+    font-size: 6.4rem;
+    line-height: 1;
+}
+.heading--h2{
+    font-size: 5.8rem;
+    line-height: 1;
+}
+.heading--h3{
+    font-size: 4.8rem;
+    line-height: 1;
+}
+.heading--h4{
+    font-size: 4rem;
+    line-height: 1;
+}
+.heading--h5{
+    font-size: 3.2rem;
+    line-height: 1;
+    
+}
+.heading--h6{
+    font-size: 2rem;
+    line-height: 1;
+}
+.body--1{
+    font-size: 1.8rem;
+}
+.body--2{
+    font-size: 1.4rem;
+}
+.title--1{
+    font-size: 3.2rem;
+}
+.title--2{
+    font-size: 2.4rem;
+}
+.caption--text{
+    font-size: 1.2rem;
+    color:#5B5B5B;
+}
+.btn--primary{
+    font-size: 1.4rem;
+    background-color: #1E1B1B;
+    border-radius: 1.2rem;
+    color: white;
+    border: none;
+    padding: 1.6rem 4rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
